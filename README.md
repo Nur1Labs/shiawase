@@ -6,6 +6,15 @@ Shiawase Core
 
 Shiawase-Core For Public System MuBdI
 
+# How to Install Ubuntu
+git clone https://github.com/Nur1Labs/shiawase.git
+chmod 755 -R shiawase
+cd shiawase
+./install_ubu.sh
+
+# Developer Contact
+founder@nur1labs.net
+
 ### License
 
 Copyright (c) 2010-2019, Nur1labs  
