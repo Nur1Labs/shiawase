@@ -1,9 +1,6 @@
 Shiawase Core
 =====================================
 
-[![CircleCI](https://circleci.com/bb/nur1labs/aria.svg?style=svg)](https://circleci.com/bb/nur1labs/aria)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4209ccb0a316482e840a478484504585)](https://www.codacy.com?utm_source=git@bitbucket.org&amp;utm_medium=referral&amp;utm_content=nur1labs/aria&amp;utm_campaign=Badge_Grade)
-
 Shiawase-Core For Public System MuBdI
 
 # How to Install Ubuntu
